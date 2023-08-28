@@ -1,3 +1,6 @@
 [submodule "WorldTimeApp"]
 	path = WorldTimeApp
 	url = https://github.com/varshaislur/WorldTimeApp.git
+[submodule "pet_info_app"]
+	path = pet_info_app
+	url = https://github.com/varshaislur/pet_info_app.git
